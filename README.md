@@ -1,4 +1,14 @@
 # Etapes de création de projet
-[] Choix de la technologie
-[] Realisation d'un zoning
-  - - [] Partie utilisateur non authentifié
+- [x] Doc > Présentation de projet
+- [ ] Doc > Listing de toutes les routes (Partie Guest / Partie Auth [super admin, admin, referent, etc...]
+- [ ] Doc > Solution technologique (front-end / back-end (api) / dataset / [auth0, nextAuth] / etc...)
+- [ ] Design > Zoning - Guest
+- [ ] Design > Zoning - Auth
+- [ ] Design > Flux fonctionnel Partie Guest
+- [ ] Design > Flux fonctionnel Partie Auth
+- [ ] Dev > Installation + configuration
+- [ ] Dev > Installation des dépendances (css, redux-tookit, auth0 || nextAuth, etc...) 
+- [ ] Dev > Structure du projet (api / pages / components / hooks / utils / etc...)
+- [ ] Dev > Création de tous les composant (utilisation si possible de storybook)
+- [ ] Dev > Création des interfaces
+- [ ] Dev > Test + correction de bug
