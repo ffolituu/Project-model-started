@@ -9,6 +9,7 @@
 - [ ] Design > Flux fonctionnel Partie Auth
 - [ ] Dev > Installation React via Vite.js
 - [ ] Dev > Installation des dépendances :
+- - [ ] React Router -> Pour la navigations des interfaces
 - - [ ] React Query -> Pour la récupération des données api
 - - [ ] Zustand -> Pour les états globaux
 - - [ ] Libre choix pour la partie Design component (Ant Design, etc...)
