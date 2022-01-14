@@ -7,7 +7,10 @@
 - [ ] Design > Zoning - Auth
 - [ ] Design > Flux fonctionnel Partie Guest
 - [ ] Design > Flux fonctionnel Partie Auth
-- [ ] Dev > Installation + configuration
+- [ ] Dev > Installation React via Vite.js
+- [ ] Dev > Installation des dépendances
+- - [ ] Test
+- [ ] Dev > Choix des librairies
 - [ ] Dev > Installation des dépendances (css, redux-tookit, auth0 || nextAuth, etc...) 
 - [ ] Dev > Structure du projet (api / pages / components / hooks / utils / etc...)
 - [ ] Dev > Création de tous les composant (utilisation si possible de storybook)
