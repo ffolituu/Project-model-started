@@ -8,11 +8,13 @@
 - [ ] Design > Flux fonctionnel Partie Guest
 - [ ] Design > Flux fonctionnel Partie Auth
 - [ ] Dev > Installation React via Vite.js
-- [ ] Dev > Installation des dépendances
-- - [ ] Test
-- [ ] Dev > Choix des librairies
-- [ ] Dev > Installation des dépendances (css, redux-tookit, auth0 || nextAuth, etc...) 
-- [ ] Dev > Structure du projet (api / pages / components / hooks / utils / etc...)
-- [ ] Dev > Création de tous les composant (utilisation si possible de storybook)
+- [ ] Dev > Installation des dépendances :
+- - [ ] React Query -> Pour la récupération des données api
+- - [ ] Zustand -> Pour les états globaux
+- - [ ] Libre choix pour la partie Design component (Ant Design, etc...)
+- - [ ] Libre choix pour la partie Design component pour un formulaire (React Hook Form, Formik, etc...)
+- - [ ] Voir aussi les cookies
+- - [ ] Voir aussi la partie authentification (auth0, etc...)
+- [ ] Dev > Création de tous les composant (/src/components/...)
 - [ ] Dev > Création des interfaces
 - [ ] Dev > Test + correction de bug
