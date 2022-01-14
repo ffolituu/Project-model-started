@@ -1,5 +1,6 @@
 # Modèle de tâches pour la mise en oeuvre d'une application jamstack
 - [x] Doc > Présentation du projet
+- [ ] Doc > Définition des fonctionnalités
 - [ ] Doc > Listing de toutes les routes (Partie Guest / Partie Auth [super admin, admin, referent, etc...]
 - [ ] Doc > Solution technologique (front-end / back-end (api) / dataset / [auth0, nextAuth] / etc...)
 - [ ] Design > Zoning - Guest
