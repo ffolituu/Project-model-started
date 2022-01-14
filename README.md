@@ -1,2 +1,4 @@
-# Project-model-started
-Start a new project with the help of a guide
+# Etapes de création de projet
+[] Choix de la technologie
+[] Realisation d'un zoning
+  - - [] Partie utilisateur non authentifié
