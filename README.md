@@ -1,4 +1,4 @@
-# Etapes de création de projet
+# Liste des taches pour un nouveau projet JAMSTACK
 - [x] Doc > Présentation du projet
 - [ ] Doc > Listing de toutes les routes (Partie Guest / Partie Auth [super admin, admin, referent, etc...]
 - [ ] Doc > Solution technologique (front-end / back-end (api) / dataset / [auth0, nextAuth] / etc...)
