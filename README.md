@@ -12,7 +12,7 @@
 - - [x] React Router -> Pour la navigations des interfaces
 - - [x] React Query -> Pour la récupération des données api
 - - [x] Zustand -> Pour les états globaux
-- - [x] Libre choix pour la partie Design component (Ant Design, etc...)
+- - [x] Material UI -> Pour le layout et les composants
 - - [x] Formik -> Pour les formulaires avancées (règle de validation, etc...)
 - - [x] React Cokiee -> Pour les cookies
 - - [x] Auth0 -> Pour le système d'authentification
