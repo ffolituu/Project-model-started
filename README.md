@@ -1,21 +1,21 @@
 # Modèle de tâches pour la mise en oeuvre d'une application jamstack
-- [x] Doc > Présentation du projet
+- [ ] Doc > Présentation du projet
 - [ ] Doc > Définition des fonctionnalités
 - [ ] Doc > Listing de toutes les routes (Partie Guest / Partie Auth [super admin, admin, referent, etc...]
 - [ ] Doc > Solution technologique (front-end / back-end (api) / stylesheet / dataset / [auth0, nextAuth] / etc...)
 - [ ] Design > Zoning - Guest
 - [ ] Design > Zoning - Auth
-- [ ] Design > Flux fonctionnel Partie Guest
+- [x] Design > [Flux fonctionnel Partie Guest](https://whimsical.com/rgpd-app-4BpQzJdK68ZxGYJiL3KmcA)
 - [ ] Design > Flux fonctionnel Partie Auth
-- [ ] Dev > Installation React via Vite.js
-- [ ] Dev > Installation des dépendances :
-- - [ ] React Router -> Pour la navigations des interfaces
-- - [ ] React Query -> Pour la récupération des données api
-- - [ ] Zustand -> Pour les états globaux
-- - [ ] Libre choix pour la partie Design component (Ant Design, etc...)
-- - [ ] Formik -> Pour les formulaires avancées (règle de validation, etc...)
-- - [ ] React Cokiee -> Pour les cookies
-- - [ ] Auth0 -> Pour le système d'authentification
+- [x] Dev > Installation React via Vite.js
+- [x] Dev > Installation des dépendances :
+- - [x] React Router -> Pour la navigations des interfaces
+- - [x] React Query -> Pour la récupération des données api
+- - [x] Zustand -> Pour les états globaux
+- - [x] Libre choix pour la partie Design component (Ant Design, etc...)
+- - [x] Formik -> Pour les formulaires avancées (règle de validation, etc...)
+- - [x] React Cokiee -> Pour les cookies
+- - [x] Auth0 -> Pour le système d'authentification
 - [ ] Dev > [Structurer l'arborescence du projet](https://github.com/ffolituu/react-typescript-blog-guideline/tree/architecture-pattern)
 - [ ] Dev > Créer un layout à l'aide du système de container et du système de grille du module `Design component`
 - [ ] Dev > Créer les interfaces à l'aide du module `Desing component`
