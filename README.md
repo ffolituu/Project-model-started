@@ -13,9 +13,9 @@
 - - [ ] React Query -> Pour la récupération des données api
 - - [ ] Zustand -> Pour les états globaux
 - - [ ] Libre choix pour la partie Design component (Ant Design, etc...)
-- - [ ] Libre choix pour la partie Design component pour un formulaire (React Hook Form, Formik, etc...)
-- - [ ] Voir aussi les cookies
-- - [ ] Voir aussi la partie authentification (auth0, etc...)
-- [ ] Dev > Création de tous les composant (/src/components/...)
-- [ ] Dev > Création des interfaces
+- - [ ] Formik -> Pour les formulaires avancées (règle de validation, etc...)
+- - [ ] React Cokiee -> Pour les cookies
+- - [ ] Auth0 -> Pour le système d'authentification
+- [ ] Dev > [Structurer l'arborescence du projet](https://github.com/ffolituu/react-typescript-blog-guideline/tree/architecture-pattern)
+- [ ] Dev > Créer les interfaces à l'aide des modules de `Desing component`
 - [ ] Dev > Test + correction de bug
