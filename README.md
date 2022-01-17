@@ -17,6 +17,6 @@
 - - [ ] React Cokiee -> Pour les cookies
 - - [ ] Auth0 -> Pour le système d'authentification
 - [ ] Dev > [Structurer l'arborescence du projet](https://github.com/ffolituu/react-typescript-blog-guideline/tree/architecture-pattern)
-- [ ] Dev > Créer un layout avec système de container et un système de grille à l'aide des modules de `Design component`
-- [ ] Dev > Créer les interfaces à l'aide des modules de `Desing component`
+- [ ] Dev > Créer un layout à l'aide du système de container et du système de grille du module `Design component`
+- [ ] Dev > Créer les interfaces à l'aide du module `Desing component`
 - [ ] Dev > Test + correction de bug
