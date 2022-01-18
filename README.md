@@ -2,9 +2,9 @@
 - [ ] Doc > Présentation du projet
 - - [x] Structurer la présentation sous forme de section 
 - - [ ] Compléter les images de la présentation 
-- - [ ] Doc > Définition des fonctionnalités
-- [ ] Doc > Listing de toutes les routes (Partie Guest / Partie Auth [super admin, admin, referent, etc...]
-- [ ] Doc > Solution technologique (front-end / back-end (api) / stylesheet / dataset / [auth0, nextAuth] / etc...)
+- - [x] Définir les fonctionnalités
+- - [ ] Lister toutes les pages de l'application (Partie Guest / Partie Auth [super admin, admin, referent, etc...])
+- - [ ] Liste les solutions technologiques utilisées pour l'application  (front-end / back-end (api) / stylesheet / dataset / [auth0, nextAuth] / etc...)
 - [ ] Design > Zoning - Guest
 - [ ] Design > Zoning - Auth
 - [x] Design > [Flux fonctionnel Partie Guest](https://whimsical.com/rgpd-app-4BpQzJdK68ZxGYJiL3KmcA)
