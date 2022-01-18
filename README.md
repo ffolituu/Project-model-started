@@ -1,12 +1,12 @@
 # Modèle de tâches pour la mise en oeuvre d'une application jamstack
-- [ ] Doc > Présentation du projet
-- - [x] Structurer la présentation sous forme de section 
-- - [ ] Compléter les images de la présentation 
-- - [x] Définir les fonctionnalités
-- - [ ] Lister toutes les pages de l'application
-- - - - [ ] Partie Guest suivi du visuel
-- - [ ] Liste les solutions technologiques utilisées pour l'application  (front-end / back-end (api) / stylesheet / dataset / [auth0, nextAuth] / etc...)
-- [ ] Design > Zoning - Guest
+- [ ] Documentation à préparer
+- - [x] Présentation du projet 
+- - [x] Définir les fonctionnalités phares
+- - [x] Les solutions technologiques
+- - [x] Flux de gestion global entre différents acteurs
+- - [x] [Documentation Notion](https://www.notion.so/iCPD-Application-des-demandes-d-exercices-de-droits-15f82bc11dfe4f72ba28f50fe3d8c870)
+- - [x] [Documentation Google Slides](https://docs.google.com/presentation/d/1ZAdOdI3BLq6-5eT4X3uPtzvWZhXNg9Zni-yk2u9QPVk/edit#slide=id.g35f391192_00)
+- [x] Design > Zoning - Guest
 - [ ] Design > Zoning - Auth
 - [x] Design > [Flux fonctionnel Partie Guest](https://whimsical.com/rgpd-app-4BpQzJdK68ZxGYJiL3KmcA)
 - [ ] Design > Arborescence Partie Guest
