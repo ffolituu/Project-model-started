@@ -3,11 +3,13 @@
 - - [x] Structurer la présentation sous forme de section 
 - - [ ] Compléter les images de la présentation 
 - - [x] Définir les fonctionnalités
-- - [ ] Lister toutes les pages de l'application (Partie Guest / Partie Auth [super admin, admin, referent, etc...])
+- - [ ] Lister toutes les pages de l'application
+- - - - [ ] Partie Guest suivi du visuel
 - - [ ] Liste les solutions technologiques utilisées pour l'application  (front-end / back-end (api) / stylesheet / dataset / [auth0, nextAuth] / etc...)
 - [ ] Design > Zoning - Guest
 - [ ] Design > Zoning - Auth
 - [x] Design > [Flux fonctionnel Partie Guest](https://whimsical.com/rgpd-app-4BpQzJdK68ZxGYJiL3KmcA)
+- [ ] Design > Arborescence Partie Guest
 - [ ] Design > Flux fonctionnel Partie Auth
 - [x] Dev > Installation React via Vite.js
 - [x] Dev > Installation des dépendances :
