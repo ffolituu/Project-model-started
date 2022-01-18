@@ -1,5 +1,5 @@
 # Modèle de tâches pour la mise en oeuvre d'une application jamstack
-- [ ] Documentation à préparer
+- [x] Documentation à préparer
 - - [x] Présentation du projet 
 - - [x] Définir les fonctionnalités phares
 - - [x] Les solutions technologiques
